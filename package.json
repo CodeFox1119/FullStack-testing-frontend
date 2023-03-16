@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://humbledev-1119.github.io/FullStack-testing",
+  "homepage": "https://humbledev-1119.github.io/FullStack-testing-frontend",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^1.4.2",
